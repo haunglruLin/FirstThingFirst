@@ -9,7 +9,8 @@ This is how I learn to use Github
 * Code section  
 
 ## Hightlight  
-`linux`  `HighLight`
+`linux`  `HighLight`  
+`CamX_debug`
 
     'C++
     printf();'  
