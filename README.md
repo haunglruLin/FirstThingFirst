@@ -11,7 +11,7 @@ Test md syntax
     'C++
     printf();'  
 
-## Bold & delect  
+## Bold & delet  
 *123*  
 _123_  
 **123**  
@@ -39,7 +39,8 @@ use ">"
 ## Code section
 
 This is a code section  
-    
+Use the " ` "  
+
 ```c  
 int printf();  
 ```  
@@ -50,11 +51,13 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-
-### 3rd  
-#### 4th  
-##### 5th  
-###### 6th  
+## Layer title
+"# 1st  "
+"## 2nd  "
+"### 3rd  "
+"#### 4th  "
+"##### 5th  "
+"###### 6th  "
 
 
 
