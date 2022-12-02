@@ -3,9 +3,12 @@ This is how I learn to use Github
 
 
 # MarkDown syntax practice
-Test md syntax  
+* Hightlight  
+* Bold /delet /Italic  
+* List mark  
+* Code section  
 
-## hightlight string  
+## Hightlight  
 `linux`  `HighLight`
 
     'C++
@@ -39,12 +42,11 @@ use ">"
 ## Code section
 
 This is a code section  
-Use the " ` "  
+Use the " ```C\r\nyour code``` "
 
 ```c  
 int printf();  
 ```  
-
 
 ```ruby
 require 'redcarpet'
